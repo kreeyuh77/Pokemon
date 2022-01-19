@@ -1,5 +1,5 @@
 # Pokemon
-When you enter the world of Pokemon you can visit Arupville, Kriaustin Town, or the Wilderness where you can encounter Pokemon! You can choose to battle or release these Pokemon of different strength and rarity. Win the battle, and you get to keep the Pokemon in your inventory to use in battle later
+In this text-based RPG you will enter the world of Pokemon you can visit Arupville, Kriaustin Town, or the Wilderness where you can encounter Pokemon! You can choose to battle or release these Pokemon of different strength and rarity. Win the battle, and you get to keep the Pokemon in your inventory to use in battle later
 
 
 **Technical Notes:** <br/>
