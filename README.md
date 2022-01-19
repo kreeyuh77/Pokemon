@@ -6,7 +6,7 @@ When you enter the world of Pokemon you can visit Arupville, Kriaustin Town, or 
 Not much to say here<br/>
 Language: C <br/>
 
-To Run:
+**To Run:**
 1. Download the C file
 2. cd into source folder
 3. _gcc pokemon.c_
