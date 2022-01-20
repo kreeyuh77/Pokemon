@@ -4,8 +4,7 @@ In this text-based RPG you will enter the world of Pokemon where you can visit A
 
 **Technical Notes:** <br/>
 Not much to say here. This program uses structures, for and while loops, if statemens, random number generation, file I/O, and more! <br/>
-**Language:** C <br/>
-**Software:** XCode, Mac OS <br/>
+**Tools:** C, XCode, Mac OS <br/>
 
 **To Run:**
 1. Download the C file
