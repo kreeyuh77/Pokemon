@@ -1,5 +1,5 @@
 # Pokemon
-In this text-based RPG you will enter the world of Pokemon where you can visit Arupville, Kriaustin Town, or the Wilderness and can encounter Pokemon! You can choose to battle or release these Pokemon of different strength and rarity. Win the battle, and you get to keep the Pokemon in your inventory to use in battle later. You can even load and save your game. 
+In this text-based RPG you will enter the world of Pokemon where you can visit Arupville, Kriaustin Town, or the Wilderness and can encounter Pokemon! You can choose to battle or release these Pokemon of different strength and rarity. Win the battle, and you get to keep the Pokemon in your inventory to use in furture battles (after restoring their health, of course). You can even save your progress and load your game later! 
 
 
 **Technical Notes:** <br/>
