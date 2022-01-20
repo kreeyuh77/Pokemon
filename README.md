@@ -4,7 +4,7 @@ In this text-based RPG you will enter the world of Pokemon where you can visit A
 
 **Technical Notes:** <br/>
 Not much to say here<br/>
-Language: C <br/>
+**Language:** C <br/>
 
 **To Run:**
 1. Download the C file
