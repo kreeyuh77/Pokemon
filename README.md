@@ -10,7 +10,7 @@ Not much to say here. This program uses structures, for and while loops, if stat
 **To Run:**
 1. Download the C file
 2. cd into source folder
-3. ```gcc -o poke Pokemon.c```
+3. ```gcc -o poke pokemon.c```
 4. ```poke```
 
 _This is my first ever pogramming project. I made it with a partner for the final submission in my Intro to C class (my very first programming class).We were not given much intruction other than to create something using everything we had learned the past semester. While it is not as impressive as my other projects, I have included it here as it is very special to me._
