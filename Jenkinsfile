@@ -8,7 +8,6 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh "docker build -t jenkins-gcc ."
         sh "gcc -o poke pokemon.c"
       }
     }
