@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('Build') {
       steps {
-        sh 'gcc -o poke pokemon.c'
+        sh "gcc pokemon.c -o Pokemon"
       }
     }
 
